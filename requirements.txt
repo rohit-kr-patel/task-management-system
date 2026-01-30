@@ -1,0 +1,10 @@
+fastapi
+uvicorn[standard]
+python-dotenv
+pydantic-settings
+python-jose
+passlib==1.7.4
+bcrypt==4.1.2
+pydantic[email]
+
+
